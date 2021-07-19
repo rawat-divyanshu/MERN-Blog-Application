@@ -16,7 +16,7 @@ For running this project you will need ```node``` and ```npm``` installed global
 2.  Go into the directory where the project now lives.
 
     ```
-    cd MERN-Blog-Applicaion
+    cd MERN-Blog-Application
     ```
     
     
